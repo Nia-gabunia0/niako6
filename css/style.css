@@ -57,6 +57,7 @@
     Width:1920px;
     Height:450px;
     margin-top: 16.28px;
+    
 }
 .mother-divv{
     width: 936px;
@@ -66,15 +67,18 @@
 }
 .box-image1{
     margin-left: 260px;
+    margin-top: 182px;
 }
 .Title{
     justify-content: center;
+    margin-top: 78px;
 }
 .organic-store{
     color: #274C5B;
     font-family: 'Roboto', sans-serif;
     font-weight: 800;
     font-size:50px;
+
 }
 .organic-p-text{
     color: #525C60;
